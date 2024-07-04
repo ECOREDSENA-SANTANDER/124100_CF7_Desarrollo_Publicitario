@@ -7,9 +7,20 @@
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
+    top: 11%
     right: 30%
 
+.decorativo
+  &-1
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 55%
+    right: 75%
+  &-2
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 30%
+    right: 10%
 
 @keyframes float1
   0%
@@ -17,3 +28,132 @@
 
   100%
     transform: translateY(0px)
+
+.titulo-principal__numero 
+    background-color: #26aab7 !important;
+
+.titulo-sexto.color-secundario 
+    border-left-color: #26aab7;
+
+.titulo-sexto
+    margin-bottom: 24px
+    border-left: 5px solid
+    padding: 5px 0 5px 15px;
+
+.cajon.color-secundario 
+  background-color: #e7f8f8;
+
+.tarjeta.color-secundario-cus 
+    background-color: #AEE6E6;
+
+.slyder-f__btn i 
+  width: 50px;
+  height: 50px;
+  background-color: $color-acento-botones;
+  border-radius: 50%;
+  text-align: center;
+  padding: 10px;
+  font-size: 2rem;
+
+.title-card
+  text-align: center
+  padding-top: 7px
+  padding-bottom: 7px
+  color: #FFF
+  font-weight: bold
+
+.bg8
+  background-color: #7D6EB2
+
+.bg1
+  background-color: #EFFAF4
+
+.bg10
+  background-color: #AEE6E6
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    width: 50px;
+    height: 50px;
+    background-color: #FFD947;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-size: 16px 24px;
+    background-position: center;
+    border: 1px solid #D8ECFF;
+    top: 50%;
+    z-index: 10000;
+    opacity: 0.7;
+    box-shadow: 0 0 0px 0px rgba(0, 0, 0, 0.3);
+    transition: opacity 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    cursor: pointer;
+
+.slyder-a__bullets__item--active 
+    background-color: #FFD947;
+    border-color: #FFD947;
+    opacity: 1;
+
+.tarjeta--verde
+  background: url('../assets/curso/temas/tema1/img5.png')
+  background-repeat: round;
+  border-radius: 15px
+
+.tarjeta--verde2
+  background: url('../assets/curso/temas/tema1/img35.png')
+  background-repeat: round;
+  border-radius: 15px
+
+.fondo-completo
+  background-color: #7D6EB2
+  background-position: center
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem  
+
+.tarjeta--blanca
+  background-color: #FFFFFF 
+
+.tarjeta--morada
+  background-color: #D8D3E8
+  border-radius: 0px
+
+//acordeon
+
+.tarjeta--gris
+  background: url('../assets/curso/temas/tema1/img25.png')
+  background-repeat: round;
+  border-radius: 15px
+
+.acordion__accion__btn--b 
+    border: 1px solid #ffffff;
+    background-color: #FFD947
+
+.acordion__accion__btn--a 
+    background-color: $color-acento-botones;
+
+.color-mas
+    color: #673AB7 !important;
+
+.color-gris
+    color: #D3D3D3 !important
+
+// avatar
+
+.tarjeta--verdesola
+  background-color: #EFFAF4
+
+.tarjeta--verdesola-recta
+  background-color: #EFFAF4
+  border-radius: 0px
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: -4rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none
+
+// tabsss
+
+.tabs-a__tab
+    background-color: #D3D3D3;
