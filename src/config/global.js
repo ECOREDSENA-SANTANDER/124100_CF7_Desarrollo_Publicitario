@@ -43,22 +43,22 @@ export default {
           {
             numero: '1.2',
             titulo: 'Proceso de la comunicación',
-            hash: 't_1_1',
+            hash: 't_1_2',
           },
           {
             numero: '1.3',
             titulo: 'Técnicas de comunicación',
-            hash: 't_1_1',
+            hash: 't_1_3',
           },
           {
             numero: '1.4',
             titulo: 'Medios de comunicación',
-            hash: 't_1_1',
+            hash: 't_1_4',
           },
           {
             numero: '1.5',
             titulo: 'Estructura del plan de comunicación',
-            hash: 't_1_1',
+            hash: 't_1_5',
           },
         ],
       },

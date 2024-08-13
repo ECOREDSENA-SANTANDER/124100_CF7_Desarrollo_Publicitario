@@ -15,7 +15,7 @@
           span
             | Estructura del plan
         figure
-          img.p-3(src='@/assets/curso/temas/tema2/tabla1.png' alt=' la tabla señala que para un objetivo pueden existir dos estrategias, cada una con su respectiva estrategia de medios, actividades(4) y sus recursos necesarios, y adicionalmente cada estrategia debe poseer su responsable e indicador')
+          img.p-3(src='@/assets/curso/temas/tema2/tabla1.png' alt=' La tabla señala que para un objetivo pueden existir dos estrategias, cada una con su respectiva estrategia de medios, actividades(4) y sus recursos necesarios, y adicionalmente cada estrategia debe poseer su responsable e indicador')
       .col-5
         img.mt-4(src='@/assets/curso/temas/tema2/imagen1.svg' alt='')
 
