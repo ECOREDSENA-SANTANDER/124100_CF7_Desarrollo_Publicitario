@@ -122,11 +122,11 @@ export default {
   },
   complementario: [
     {
-      tema: '',
+      tema: 'Elaboración de un plan de comunicación.',
       referencia:
         'SENA. (2020). Adaptado de Manuales prácticos de la Mipyme: Como Elaborar el Plan de Comunicación. (s.f.). Ejemplo Plan de Comunicación.',
       tipo: 'Documento PDF',
-      link: 'https://www.google.com/',
+      link: 'downloads/Ejemplo_plan_de_comunicacion.pdf',
     },
     //   {
     //    tema: '',
@@ -137,14 +137,14 @@ export default {
   ],
   glosario: [
     {
-      termino: '<em>Above The Line</em> (ATL) o por encima de la línea',
+      termino: '<i>Above The Line</i> (ATL) o por encima de la línea',
       significado:
-        'Técnica basada en la utilización de medios de publicidad tradicional o convencional. Los medios <em>Above The Line</em> hacen referencia a los medios masivos, con gran difusión, que se caracterizan por su elevado coste. Los medios tradicionales son televisión, radio, prensa y publicidad exterior.',
+        'Técnica basada en la utilización de medios de publicidad tradicional o convencional. Los medios <i>Above The Line</i> hacen referencia a los medios masivos, con gran difusión, que se caracterizan por su elevado coste. Los medios tradicionales son televisión, radio, prensa y publicidad exterior.',
     },
     {
-      termino: '<em>Below The Line</em> (BTL) o por debajo de la línea',
+      termino: '<i>Below The Line</i> (BTL) o por debajo de la línea',
       significado:
-        'Técnica basada en la utilización de medios de publicidad no convencionales. Se caracterizan por ser más directos y personales. Los medios BTL son el marketing directo, promociones al consumidor, promociones al fabricante, relaciones públicas, internet. Internet es un medio considerado por unos autores en la clasificación ATL mientras que por otros en la BTL.',
+        'Técnica basada en la utilización de medios de publicidad no convencionales. Se caracterizan por ser más directos y personales. Los medios BTL son el <i>marketing</i> directo, promociones al consumidor, promociones al fabricante, relaciones públicas, internet. Internet es un medio considerado por unos autores en la clasificación ATL mientras que por otros en la BTL.',
     },
     {
       termino: 'Comunicación corporativa',
@@ -152,17 +152,17 @@ export default {
         'Comunicación por la cual la empresa premeditadamente emite un mensaje con el fin de transmitir o decir al público lo que la empresa es.',
     },
     {
-      termino: '<em>Lobbying</em> o grupos de presión',
+      termino: '<i>Lobbying</i> o grupos de presión',
       significado:
-        'Proceso planificado de comunicación persuasiva cuyo fin es influir y predisponer al receptor del mensaje para conseguir determinados objetivos para la empresa. Los lobbys actúan como grupos de presión.',
+        'Proceso planificado de comunicación persuasiva cuyo fin es influir y predisponer al receptor del mensaje para conseguir determinados objetivos para la empresa. Los <i>lobbys</i> actúan como grupos de presión.',
     },
     {
-      termino: '<em>Mailing</em>',
+      termino: '<i>Mailing</i>',
       significado:
-        'Envío de información a través del correo. Se trata de una alternativa del marketing directo.',
+        'Envío de información a través del correo. Se trata de una alternativa del <i>marketing</i> directo.',
     },
     {
-      termino: '<em>Marketing</em> de guerrilla',
+      termino: '<i>Marketing</i> de guerrilla',
       significado:
         'Se trata de cualquier alternativa comercial a la publicidad convencional, que utiliza altas dosis de creatividad e impacto visual para captar al público objetivo. Suele elegir la vía pública para el reclamo publicitario.',
     },
@@ -175,7 +175,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Coll, P. y Lluís, J. (2018). Marketing y Comunicación en la Nueva Economía. Editorial UOC.',
+        'Coll, P. y Lluís, J. (2018). <i>Marketing</i> y Comunicación en la Nueva Economía. Editorial UOC.',
       link: '',
     },
     {
@@ -185,22 +185,22 @@ export default {
     },
     {
       referencia:
-        'Davara, A. M. (1992). Estrategias de Comunicación en Marketing. Edit. DOSSAT S.A.',
+        'Davara, A. M. (1992). Estrategias de Comunicación en <i>Marketing</i>. Edit. DOSSAT S.A.',
       link: '',
     },
     {
       referencia:
-        'Estrella, A. M. y Segovia, C. (2016). Comunicación Integrada de Marketing. ESIC EDITORIAL.',
+        'Estrella, A. M. y Segovia, C. (2016). Comunicación Integrada de <i>Marketing</i>. ESIC EDITORIAL.',
       link: '',
     },
     {
       referencia:
-        'InformaBTL. (2010, 6 de octubre). Marketing de Guerrilla en la Nieve. ',
+        'InformaBTL. (2010, 6 de octubre). <i>Marketing</i> de Guerrilla en la Nieve. ',
       link: 'https://www.informabtl.com/marketing-de-guerrilla-en-la-nieve/ ',
     },
     {
       referencia:
-        'Kotler, P. y Armstrong, G. (2003). Fundamentos de Marketing. (6ta ed.). Prentice Hall.',
+        'Kotler, P. y Armstrong, G. (2003). Fundamentos de <i>Marketing</i>. (6ta ed.). Prentice Hall.',
       link: '',
     },
     {
@@ -215,7 +215,7 @@ export default {
     },
     {
       referencia:
-        'Stanton, W., Etzel, M. y Walker, B. (2004). Fundamentos de Marketing. (13a ed.). Mc Graw Hill.',
+        'Stanton, W., Etzel, M. y Walker, B. (2004). Fundamentos de <i>Marketing</i>. (13a ed.). Mc Graw Hill.',
       link: '',
     },
     {
@@ -246,13 +246,13 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Claudia Johana Gómez',
+          cargo: 'Responsable de línea de producción',
+          centro: 'Regional Santander Centro Agroturístico',
         },
       ],
     },
@@ -261,40 +261,25 @@ export default {
       autores: [
         {
           nombre: 'Manuel Augusto Arias López',
-          cargo: 'Instructor – Experto temático',
+          cargo: 'Instructor – experto temático',
           centro: 'Centro de Comercio y Servicios – Regional Quindío',
         },
-      ],
-    },
-    {
-      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
-      autores: [
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor pedagógico',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura – Regional Santander',
+        },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Diseñador instruccional',
           centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Carolina Jiménez Suescún',
+          cargo: 'Diseñadora instruccional',
+          centro: 'Regional Santander Centro Agroturístico',
         },
-        {
-          nombre: 'Martha Isabel Martínez Vargas',
-          cargo: 'Productora audiovisual',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura – Regional Santander',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-      ],
-    },
-    {
-      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
-      autores: [
         {
           nombre: 'Vilma Perilla Méndez',
           cargo: 'Evaluadora instruccional',
@@ -304,19 +289,49 @@ export default {
           nombre: 'Julieth Paola Vital López',
           cargo: 'Correctora de estilo',
           centro:
-            'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital',
+            'Centro para la Industrial y la Comunicación Gráfica – Regional Distrito Capital',
+        },
+      ],
+    },
+    {
+      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Yazmin Rocio Figueroa Pacheco',
+          cargo: 'Diseñador web',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor pedagógico',
+          nombre: 'Lucenith Pinilla Moreno',
+          cargo: 'Desarrollador <i>full-stack</i> Junior',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Martha Isabel Martínez Vargas',
+          cargo: 'Productora audiovisual',
           centro:
             'Centro Industrial del Diseño y la Manufactura – Regional Santander',
         },
-        //   {
-        //     nombre: 'Margarita Marcela Medrano',
-        //     cargo: 'Evaluador para contenidos inclusivos y accesibles',
-        //     centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        //    },
+        {
+          nombre: 'María Alejandra Vera Briceño',
+          cargo: 'Animadora y productora multimedia',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+      ],
+    },
+    {
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
+      autores: [
+        {
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora de recursos educativos digitales',
+          centro: '	Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
       ],
     },
   ],
