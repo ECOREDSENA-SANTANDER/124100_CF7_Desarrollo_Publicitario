@@ -277,7 +277,7 @@ export default {
         },
         {
           nombre: 'Carolina Jiménez Suescún',
-          cargo: 'Diseñadora instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Regional Santander Centro Agroturístico',
         },
         {

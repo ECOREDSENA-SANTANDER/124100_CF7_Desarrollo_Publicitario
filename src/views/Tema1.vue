@@ -551,7 +551,7 @@
                   span.mb-2  #[b Estrategia #[em Below The Line] (BTL)]: el empleo de una estrategia #[em Below The Line] se centra en utilizar medios no convencionales, que se caracterizan por ser menos masivos y más directos. Algunos de ellos son: las relaciones públicas, el internet, el #[em marketing] directo, las promociones. 
                 li
                   i.fas.fa-plus.color-mas
-                  span.mb-2  #[b Estrategias 360 grados]: se basan en la utilización de todos los medios publicitarios masivos y no masivos.       
+                  span.mb-2  #[b Estrategia 360 grados]: se basan en la utilización de todos los medios publicitarios masivos y no masivos.       
       
       .row(titulo="Estrategias <i>web</i>")
         .col-lg-12
