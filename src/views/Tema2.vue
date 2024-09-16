@@ -11,7 +11,7 @@
       .col-sm-12.col-md-12.col-lg-7 
         br       
         .titulo-sexto.color-secundario
-          h5 Tabla 1.
+          h5 Figura 4.
           span
             | Estructura del plan
         figure
