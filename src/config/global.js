@@ -169,7 +169,7 @@ export default {
     {
       termino: 'Publicidad viral',
       significado:
-        'Integra a todos los mensajes comerciales que se generan fundamentalmente a partir de un vídeo y que ofrecen un mensaje indirecto, no relacionado con una marca en concreto, pero que tienen un alto impacto en las redes sociales. Una publicidad se convierte en viral (virus) cuando es compartida por muchas personas a través de la mencionada herramienta de la Web 2.0.',
+        'Integra a todos los mensajes comerciales que se generan fundamentalmente a partir de un vídeo y que ofrecen un mensaje indirecto, no relacionado con una marca en concreto, pero que tienen un alto impacto en las redes sociales. Una publicidad se convierte en viral (virus) cuando es compartida por muchas personas a través de la mencionada herramienta de la <i>Web 2.0.</i>',
     },
   ],
   referencias: [
@@ -195,7 +195,7 @@ export default {
     },
     {
       referencia:
-        'InformaBTL. (2010, 6 de octubre). <i>Marketing</i> de Guerrilla en la Nieve. ',
+        'Informa BTL. (2010, 6 de octubre). <i>Marketing</i> de Guerrilla en la Nieve. ',
       link: 'https://www.informabtl.com/marketing-de-guerrilla-en-la-nieve/ ',
     },
     {
@@ -215,7 +215,7 @@ export default {
     },
     {
       referencia:
-        'Stanton, W., Etzel, M. y Walker, B. (2004). Fundamentos de <i>Marketing</i>. (13a ed.). Mc Graw Hill.',
+        'Stanton, W., Etzel, M. y Walker, B. (2004). Fundamentos de <i>Marketing</i>. (13a ed.). McGraw Hill.',
       link: '',
     },
     {
@@ -235,7 +235,7 @@ export default {
     },
     {
       referencia:
-        'Xunta de Galicia. (s.f.). Manuales prácticos de la Mipyme: Como Elaborar el Plan de Comunicación. ',
+        'Xunta de Galicia. (s.f.). Manuales prácticos de la pyme: Como Elaborar el Plan de Comunicación. ',
       link:
         'http://biblioteca.udgvirtual.udg.mx/jspui/bitstream/123456789/1919/1/Como%20elaborar%20el%20plan%20de%20comunicaci%c3%b3n.pdf',
     },
@@ -252,7 +252,7 @@ export default {
         {
           nombre: 'Claudia Johana Gómez',
           cargo: 'Responsable de línea de producción',
-          centro: 'Regional Santander Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -261,35 +261,35 @@ export default {
       autores: [
         {
           nombre: 'Manuel Augusto Arias López',
-          cargo: 'Instructor – experto temático',
-          centro: 'Centro de Comercio y Servicios – Regional Quindío',
+          cargo: 'Instructor - experto temático',
+          centro: 'Centro de Comercio y Servicios - Regional Quindío',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Asesor pedagógico',
           centro:
-            'Centro Industrial del Diseño y la Manufactura – Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Diseñador instruccional',
-          centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Carolina Jiménez Suescún',
           cargo: 'Evaluadora instruccional',
-          centro: 'Regional Santander Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Vilma Perilla Méndez',
           cargo: 'Evaluadora instruccional',
-          centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Julieth Paola Vital López',
           cargo: 'Correctora de estilo',
           centro:
-            'Centro para la Industrial y la Comunicación Gráfica – Regional Distrito Capital',
+            'Centro para la Industrial y la Comunicación Gráfica - Regional Distrito Capital',
         },
       ],
     },
@@ -299,23 +299,23 @@ export default {
         {
           nombre: 'Yazmin Rocio Figueroa Pacheco',
           cargo: 'Diseñador web',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
           cargo: 'Desarrollador <i>full-stack</i> Junior',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Martha Isabel Martínez Vargas',
           cargo: 'Productora audiovisual',
           centro:
-            'Centro Industrial del Diseño y la Manufactura – Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'María Alejandra Vera Briceño',
           cargo: 'Animadora y productora multimedia',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -325,12 +325,12 @@ export default {
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora de recursos educativos digitales',
-          centro: '	Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },

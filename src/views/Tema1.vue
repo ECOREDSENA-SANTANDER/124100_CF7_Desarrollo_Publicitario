@@ -20,7 +20,7 @@
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-md-8.col-lg-8
         p Las empresas, independientemente  de su actividad económica, requieren de una interacción permanente con sus clientes; de allí depende todo el funcionamiento de la compañía o por lo menos, así debería ser. Son los clientes quienes dan las pautas para el desarrollo de los productos o servicios, también son ellos quienes definen los canales de distribución, las estrategias de promoción y en gran medida, el precio de los productos. La comunicación por lo tanto debe ser concebida de doble vía, la empresa tiene que aprender a escuchar a sus clientes y consumidores y crear mecanismos para que lo que ellos dicen sea tenido en cuenta. 
-        p La comunicación es parte del #[em marketing mix] (P – Publicidad) y por ende, un factor principal en el desarrollo comercial de los productos y servicios. Es importante aclarar que hoy en día la P – Publicidad abarca todo un sistema integrado de comunicación que no se limita a estrategias ATL (#[em Above The Line] ), es decir a medios masivos convencionales; por el contrario, la comunicación se ha volcado a los medios alternativos y a la #[em web], gracias a la conectividad mundial y a la proliferación de las redes sociales. 
+        p La comunicación es parte del #[em marketing mix] (P - Publicidad) y, por ende, un factor principal en el desarrollo comercial de los productos y servicios. Es importante aclarar que hoy en día la P - Publicidad abarca todo un sistema integrado de comunicación que no se limita a estrategias ATL (#[em Above The Line]), es decir a medios masivos convencionales; por el contrario, la comunicación se ha volcado a los medios alternativos y a la #[em web], gracias a la conectividad mundial y a la proliferación de las redes sociales. 
         .cajon.color-secundario.p-4.mb-4
           h5.p-3 Hoy el mundo se mueve a través del internet y es allí donde está el futuro de las estrategias comerciales y con ellas de las comunicaciones empresariales. Por este motivo, en la actualidad, las empresas deben pensar en una comunicación más integral, estratégica e individualizada.    
       .col-6.col-md-4.col-lg-4
@@ -29,7 +29,7 @@
     Separador  
     #t_1_2.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2 1.2 Proceso de la comunicación
-    p La comunicación es un proceso sencillo que se lleva a cabo todo el tiempo y con todas las personas con las que se interactúa, sin embargo debe abordarse con estrategias efectivas, si se quieren obtener resultados óptimos. 
+    p La comunicación es un proceso sencillo que se lleva a cabo todo el tiempo y con todas las personas con las que se interactúa, sin embargo, debe abordarse con estrategias efectivas, si se quieren obtener resultados óptimos. 
     
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-6
@@ -71,8 +71,8 @@
         .row.justify-content-center.mb-4
           .col-sm-7.col-lg-7
             img(src='@/assets/curso/temas/tema1/tarjeta1/imagen5.svg')
-        h4.title-card.bg8.mx-2.mb-4 #[em Feed back]
-        p.mb-0.text-center Es la realimentación a la comunicación, la respuesta al mensaje emitido. Puede ser un mensaje con el mismo código y canal, un mensaje a través de otro medio e incluso el silencio puede ser un #[em feed back].
+        h4.title-card.bg8.mx-2.mb-4 #[em Feedback]
+        p.mb-0.text-center Es la realimentación a la comunicación, la respuesta al mensaje emitido. Puede ser un mensaje con el mismo código y canal, un mensaje a través de otro medio e incluso el silencio puede ser un #[em feedback].
 
     p.mb-4 En la comunicación de #[em marketing] el proceso es igual; sin embargo, los participantes tienen otros roles y los objetivos son comerciales y de persuasión hacia la compra de un producto, uso de un servicio, inscripción en un sitio #[em web], recomendación de determinada marca, etc.
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
@@ -108,7 +108,7 @@
                     p #[b Medio:] es el canal por el cual se trasmite el mensaje, hoy en día los medios han evolucionado en cuanto a la comunicación de #[em marketing], con la preferencia del mercado por las redes sociales para mantenerse informado y con la decadencia de la televisión convencional; los medios que operan a través de plataformas #[em web] son los más efectivos para el desarrollo de estrategias de promoción.
                 .row.align-items-center.justify-content-center
                   .col-lg-10.col-md-6.col-12
-                    p #[b #[em Feed back]:] es la razón de ser de la comunicación de #[em marketing], es a través de este que se pueden realizar las mediciones de efectividad de las estrategias y definir los ajustes pertinentes a las mismas. Los clientes pueden generar diferentes tipos de respuestas dependiendo de los objetivos que la empresa haya planteado y es deber de ella otorgar todos los medios necesarios para que el cliente pueda expresar de la forma más eficiente posible dichas respuestas. Entre las más frecuentes están: la compra, la inscripción a un sitio #[em web] o el diligenciamiento de un formulario, el #[em like] a un #[em post] en una red social, compartir o comentar una publicación o escribir un mensaje a través de WhatsApp u otro sistema de #[em chat]. 
+                    p #[b #[em Feedback]:] es la razón de ser de la comunicación de #[em marketing], es a través de este que se pueden realizar las mediciones de efectividad de las estrategias y definir los ajustes pertinentes a las mismas. Los clientes pueden generar diferentes tipos de respuestas dependiendo de los objetivos que la empresa haya planteado y es deber de ella otorgar todos los medios necesarios para que el cliente pueda expresar de la forma más eficiente posible dichas respuestas. Entre las más frecuentes están: la compra, la inscripción a un sitio #[em web] o el diligenciamiento de un formulario, el #[em like] a un #[em post] en una red social, compartir o comentar una publicación o escribir un mensaje a través de WhatsApp u otro sistema de #[em chat]. 
     p En todo plan de comunicación es importante tener claro este proceso y entender que el llevarlo a cabo, teniendo en cuenta todos los detalles, permite generar respuestas acertadas por parte de los consumidores y de esta forma lograr los objetivos propuestos.
 
     Separador  
@@ -117,7 +117,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col--6.col-lg-6
-        p Las empresas se deben apoyar en diferentes técnicas de comunicación para el logro de los objetivos y cada una de ellas tiene un accionar en el proceso de promoción de los productos y servicios; así mismo, cada una aporta en el proceso de persuasión que lleva al incremento del consumo y el uso de los servicios de la empresa. Las diferentes técnicas permiten llegar a todos los públicos objetivo con una comunicación 360º; es decir, abarcando todos los medios posibles de acuerdo con las características que presenten los consumidores.
+        p Las empresas se deben apoyar en diferentes técnicas de comunicación para el logro de los objetivos y cada una de ellas tiene un accionar en el proceso de promoción de los productos y servicios; así mismo, cada una aporta en el proceso de persuasión que lleva al incremento del consumo y el uso de los servicios de la empresa. Las diferentes técnicas permiten llegar a todos los públicos, objetivo con una comunicación 360º; es decir, abarcando todos los medios posibles de acuerdo con las características que presenten los consumidores.
       .col-6.col-md-4.col-lg-4
         img(src='@/assets/curso/temas/tema1/imagen6.png')
     p Existen cinco técnicas básicas de comunicación, todas ellas con fines y características particulares; las cuales se verán a continuación:
@@ -141,7 +141,7 @@
                   p #[b Relaciones públicas:] este tipo de comunicación es indispensable en cualquier empresa, no solo es apta para llegar a clientes potenciales y consumidores, sino también a proveedores y aliados estratégicos. Según Stanton, Etzel y Walker (2004), las relaciones públicas se definen como: 
                   .cajon.bg1.p-3
                     p.text-small Una herramienta de administración destinada a influir favorablemente en las actitudes hacia la organización, sus productos y sus políticas. Es una forma de promoción que muchas veces se ignora, a diferencia de la mayor parte de la publicidad y de las ventas personales, no incluyen un mensaje de ventas específico. Los objetivos pueden ser clientes, accionistas, una organización gubernamental o un grupo de interés especial. (p. 643)
-                  p.mb-3 De acuerdo con esta definición, es una excelente técnica para mantener intacta la imagen de la empresa, porque permite a través de las relaciones con los diferentes públicos corregir posibles adversidades, generar confianza, crear lazos entre la marca y los públicos y mejorar la imagen corporativa.  
+                  p.mb-3 De acuerdo con esta definición, es una excelente técnica para mantener intacta la imagen de la empresa, porque permite a través de las relaciones con los diferentes públicos, corregir posibles adversidades, generar confianza, crear lazos entre la marca y los públicos y mejorar la imagen corporativa.  
                   img(src='@/assets/curso/temas/tema1/tarjeta2/imagen2.png' alt='')
               .row.justify-content-center.align-items-center
                 .col-sm-12.col-md-7.col-lg-7
@@ -281,7 +281,7 @@
         .col-md-11.mb-4.mb-md-0
           .row.ps-3
             .col-sm-12.col-md-8.col-lg-8
-              p  Hay dos tipos de revistas: de información general y especializada. Las primeras tienen alcance nacional indiscriminado, mientras que las segundas se enfocan en temas específicos y por lo tanto, llegan a públicos exclusivos. En ellas hay algunas características comunes, además de tratarse en todos los casos de medios de información, impresos y argumentales:
+              p  Hay dos tipos de revistas: de información general y especializada. Las primeras tienen alcance nacional indiscriminado, mientras que las segundas se enfocan en temas específicos y, por lo tanto, llegan a públicos exclusivos. En ellas hay algunas características comunes, además de tratarse en todos los casos de medios de información, impresos y argumentales:
               ul.lista-ul-.mb-0
                 li.mb-0
                   i.fas.fa-plus.color-mas.mb-3
@@ -305,7 +305,7 @@
               ul.lista-ul-.mb-0
                 li.mb-0
                   i.fas.fa-plus.color-mas.mb-3
-                  |  Generalmente se utiliza como medio de apoyo, por sus limitaciones de espacio.
+                  |  Generalmente, se utiliza como medio de apoyo, por sus limitaciones de espacio.
                 li.mb-0  
                   i.fas.fa-plus.color-mas.mb-3
                   |  El mensaje que contiene debe ser breve (conceptual).
@@ -397,7 +397,7 @@
             | #[em Marketing] de guerrilla en la nieve
         figure
           img.mb-3(src='@/assets/curso/temas/tema1/imagen9.svg' alt="la figura presenta una secuencia de 3 fotografías: una persona colocando una pequeña imagen de un esquiador sobre el parabrisas de una carro, el parabrisas de un carro lleno de nieve y sobresale un pequeño esquiador sobre el hielo, por ultimo una fila de varios carros con el pequeño esquiador sobre el parabrisas.")
-          figcaption Nota. Tomado de InformaBTL (2010)
+          figcaption Nota. Tomado de Informa BTL (2010)
 
     Separador  
     #t_1_5.titulo-segundo.color-secundario(data-aos="zoom-in-left")
@@ -437,7 +437,7 @@
       .col-4.col-md-1.col-lg-1
         img.ps-3.mt-3(src='@/assets/curso/temas/tema1/imagen11.svg' alt='')
       .col-sm-12.col-md-10.col-lg-10
-        p.mt-3.ps-3 Se plantean con base en la estructura SMART ya vista anteriormente, Specífico, Medible, Alcanzable, Relevante y Temporal. Es importante que los objetivos se puedan medir y tengan una fecha de realización, cada uno al final estará monitorizado con un indicador de gestión. Además, deben ser llevados a cabo con el desarrollo de las estrategias. 
+        p.mt-3.ps-3 Se plantean con base en la estructura SMART ya vista anteriormente, Específico, Medible, Alcanzable, Relevante y Temporal. Es importante que los objetivos se puedan medir y tengan una fecha de realización, cada uno al final estará monitorizado con un indicador de gestión. Además, deben ser llevados a cabo con el desarrollo de las estrategias. 
       .col-1
 
     .mb-5.d-flex
@@ -511,7 +511,7 @@
                 li
                   i.fas.fa-plus.color-mas
                   span.mb-2  #[b #[em Marketing] de fidelización o retención:] su objetivo principal es mantener la fidelidad o lealtad de los clientes, aquellos que son los más rentables para la empresa, a través de una relación que produzca el mayor valor para el cliente.
-              p.ps-3.mt-3 Esta estrategia se basa en prestar el mejor servicio al cliente, ofrecerle un producto personalizado a sus necesidades, poner en marcha programas de fidelización: regalos, tarjetas de puntos, etc. 
+              p.ps-3.mt-3 Esta estrategia se basa en prestar el mejor servicio al cliente, ofrecerles un producto personalizado a sus necesidades, poner en marcha programas de fidelización: regalos, tarjetas de puntos, etc. 
               p.ps-3.mt-3 En esta estrategia, los clientes fieles son menos sensibles al precio y tienen un coste de cambio que representa una barrera para los competidores. Cuando un cliente se encuentra verdaderamente satisfecho con la oferta de la empresa, este puede actuar incluso como prescriptor de la misma, de ahí la importancia de esta estrategia.
               ul.lista-ul--color.fa-ul
                 li
@@ -537,7 +537,7 @@
               ul.lista-ul--color.fa-ul
                 li
                   i.fas.fa-plus.color-mas
-                  span.mb-2  #[b #[em Marketing] permisivo:] estrategia de#[em marketing] donde la empresa ya cuenta anticipadamente con el permiso del cliente para poder hacerle llegar ofertas comerciales.   
+                  span.mb-2  #[b #[em Marketing] permisivo:] estrategia de #[em marketing] donde la empresa ya cuenta anticipadamente con el permiso del cliente para poder hacerle llegar ofertas comerciales.   
       .row(titulo="Estrategias de publicidad")
         .col-lg-12
           .row.justify-content-center.align-items-center
@@ -571,13 +571,13 @@
                 li  
                   i.fas.fa-plus.color-mas
                   span.mb-2  #[b #[em Microsites] y comunidades virtuales:] #[em webs] desarrolladas específicamente para dar a conocer una acción en concreto de la empresa. Con carácter general suelen tener una validez determinada en el tiempo, pues son creadas para una actividad en concreto. 
-                p.ps-3.mt-3 Una comunidad virtual es un punto de encuentro en internet para que usuarios con intereses comunes puedan charlar, debatir, compartir información, etc  
+                p.ps-3.mt-3 Una comunidad virtual es un punto de encuentro en internet para que usuarios con intereses comunes puedan charlar, debatir, compartir información, etc. 
                 li
                   i.fas.fa-plus.color-mas
                   span.mb-2  #[b #[em E-mail marketing:]] utilización del correo electrónico como herramienta de comunicación directa y personalizada con el usuario. Este medio de comunicación está desbancando al fax y al correo postal, como otras formas de comunicación. En parte debido a: el bajo coste de la comunicación, que no depende de la distancia ni del número de destinatarios/as, la rapidez, posibilidad de adjuntar ficheros, así como las distintas técnicas que ofrece como puede ser la posibilidad de encriptación. 
                 li  
                   i.fas.fa-plus.color-mas
-                  span.mb-2  #[b Publicidad en internet:] otra forma de publicidad en diferentes páginas #[em web] a través de #[em banners] o anuncios publicitarios en internet, ventanas emergentes o pop ups, botones, entre otros que aparecen cuando el usuario consulta otras páginas y contenidos #[em web]. 
+                  span.mb-2  #[b Publicidad en internet:] otra forma de publicidad en diferentes páginas #[em web] a través de #[em banners] o anuncios publicitarios en internet, ventanas emergentes o pop ups, botones, entre otros, que aparecen cuando el usuario consulta otras páginas y contenidos #[em web]. 
                 li.mb-0  
                   i.fas.fa-plus.color-mas
                   span-mb-2  #[b #[em E-commerce:]] intercambio de información y pago de los productos a través de internet. La entrega final se realiza en el mundo real, salvo aquellos bienes que pueden ser digitalizados. La estrategia de #[em e-commerce] supone ofrecer al consumidor un nuevo canal de venta diferente de las formas tradicionales, venta directa, a través de correo postal o por teléfono. (Xunta de Galicia, s.f., p. 68-72) 
@@ -586,7 +586,7 @@
         .col-lg-12
           .row.justify-content-center.align-items-center
             .col-lg-10
-              p Este punto del plan define los medios a utilizar para llegar al mercado objetivo y llevar a cabo la estrategia de comunicación planteada. En este punto se determinan todos los medios necesarios, cuáles son los principales y los secundarios o de apoyo para llegar a la mayor cantidad de miembros del público objetivo posibles. La selección de los medios es fundamental para la efectividad del plan y para obtener el #[em feed back] de los consumidores buscado por la empresa. 
+              p Este punto del plan define los medios a utilizar para llegar al mercado objetivo y llevar a cabo la estrategia de comunicación planteada. En este punto se determinan todos los medios necesarios, cuáles son los principales y los secundarios o de apoyo para llegar a la mayor cantidad de miembros del público objetivo posibles. La selección de los medios es fundamental para la efectividad del plan y para obtener el #[em feedback] de los consumidores buscado por la empresa. 
 
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
@@ -629,9 +629,6 @@
                   li
                     i.fas.fa-plus.color-mas
                     span.mb-2  Económicos: este punto define el presupuesto necesario para obtener los recursos anteriores.
-
-
-
 
 
     .mb-5.d-flex
