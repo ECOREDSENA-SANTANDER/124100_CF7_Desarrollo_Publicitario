@@ -586,7 +586,8 @@
         .col-lg-12
           .row.justify-content-center.align-items-center
             .col-lg-10
-              p Este punto del plan define los medios a utilizar para llegar al mercado objetivo y llevar a cabo la estrategia de comunicación planteada. En este punto se determinan todos los medios necesarios, cuáles son los principales y los secundarios o de apoyo para llegar a la mayor cantidad de miembros del público objetivo posibles. La selección de los medios es fundamental para la efectividad del plan y para obtener el #[em feedback] de los consumidores buscado por la empresa. 
+              p Este punto del plan define los medios a utilizar para llegar al mercado objetivo y llevar a cabo la estrategia de comunicación planteada.
+              p Al pensar en estas estrategias se determinan todos los medios necesarios, y la manera de presentarlos, para llegar a la mayor cantidad posible de miembros del público objetivo, se definen las estrategias principales, las estrategias secundarias y las estrategias de apoyo, con el fin de garantizar la efectividad del plan y la obtención del #[em feed back] de los consumidores que la empresa desea conseguir, y con esto el cumplimiento de los objetivos del plan de medios.
 
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
